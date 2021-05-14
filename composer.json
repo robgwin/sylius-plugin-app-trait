@@ -40,6 +40,7 @@
     "autoload": {
         "psr-4": {
             "Acme\\SyliusExamplePlugin\\": "src/",
+            "App\\": "tests/Application/src/",
             "Tests\\Acme\\SyliusExamplePlugin\\": "tests/"
         }
     },
